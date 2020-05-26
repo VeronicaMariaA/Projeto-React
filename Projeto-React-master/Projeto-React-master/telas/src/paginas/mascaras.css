@@ -1,0 +1,22 @@
+.n65{
+    position: relative;
+    float: right;
+}
+.title_esq{
+    text-align: right;
+}
+
+.masc_cirur{
+    position: relative;
+    float: left;
+}
+
+.masc_caseira{
+    position: relative;
+    float: right;
+}
+
+.caseira_filtro{
+    position: relative;
+    float: left;
+}

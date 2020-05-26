@@ -1,0 +1,44 @@
+header{
+    background-color: lightgray ;
+    height: 20vh;
+}
+
+main{
+    background-color:whitesmoke;
+}
+
+footer{
+    text-align: center ;
+    position: relative;
+    background-color:gray ;
+    height: 10vh;
+}
+
+nav{
+    width: 30%;
+    float: right;;
+    margin-top: 5%;
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none   ;
+}
+
+.text{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    width: 10%;
+}
+
+
+

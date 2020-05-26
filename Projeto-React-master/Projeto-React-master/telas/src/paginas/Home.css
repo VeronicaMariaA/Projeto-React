@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.banner{
+    top: 20%;
+    position: relative;
+    float: right;
+    width: 40%;
+}
